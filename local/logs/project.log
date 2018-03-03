@@ -1,0 +1,72 @@
+2018-02-07T09:38:02.601Z - normal: Load ~/.CocosCreator/settings.json
+2018-02-07T09:38:02.607Z - normal: checking language setting...
+2018-02-07T09:38:02.607Z - normal: Language: zh
+2018-02-07T09:38:03.444Z - success: protocol editor-framework registered
+2018-02-07T09:38:03.445Z - success: protocol app registered
+2018-02-07T09:38:03.445Z - success: protocol theme registered
+2018-02-07T09:38:03.445Z - success: protocol packages registered
+2018-02-07T09:38:03.445Z - success: protocol unpack registerred
+2018-02-07T09:38:03.445Z - success: protocol disable-commonjs registerred
+2018-02-07T09:38:03.760Z - normal: connected!
+2018-02-07T09:38:03.763Z - normal: Check project /Users/huangjiheng/NewProject
+2018-02-07T09:38:03.765Z - normal: Initializing Cocos2d
+2018-02-07T09:38:04.010Z - normal: Initializing Asset Database
+2018-02-07T09:38:04.046Z - success: protocol uuid registerred
+2018-02-07T09:38:04.046Z - success: protocol db registerred
+2018-02-07T09:38:04.046Z - success: protocol thumbnail registerred
+2018-02-07T09:38:04.046Z - normal: Loading editor/builtin packages
+2018-02-07T09:38:04.068Z - success: anysdk loaded
+2018-02-07T09:38:04.195Z - success: assets loaded
+2018-02-07T09:38:04.199Z - success: builder loaded
+2018-02-07T09:38:04.201Z - success: cocos-analytics loaded
+2018-02-07T09:38:04.207Z - success: console loaded
+2018-02-07T09:38:04.212Z - success: hierarchy loaded
+2018-02-07T09:38:04.218Z - success: inspector loaded
+2018-02-07T09:38:04.219Z - success: keystore loaded
+2018-02-07T09:38:04.223Z - success: node-library loaded
+2018-02-07T09:38:04.225Z - success: package-asset loaded
+2018-02-07T09:38:04.228Z - success: preferences loaded
+2018-02-07T09:38:04.231Z - success: project-exporter loaded
+2018-02-07T09:38:04.248Z - success: project-importer loaded
+2018-02-07T09:38:04.252Z - success: project-settings loaded
+2018-02-07T09:38:04.256Z - success: ui-kit loaded
+2018-02-07T09:38:04.261Z - success: ui-grid loaded
+2018-02-07T09:38:04.265Z - success: scene loaded
+2018-02-07T09:38:04.267Z - success: sprite-editor loaded
+2018-02-07T09:38:04.272Z - success: store loaded
+2018-02-07T09:38:04.278Z - success: timeline loaded
+2018-02-07T09:38:04.278Z - normal: Loading builtin packages
+2018-02-07T09:38:04.283Z - success: asset-db-debugger loaded
+2018-02-07T09:38:04.284Z - success: color-picker loaded
+2018-02-07T09:38:04.288Z - success: package-manager loaded
+2018-02-07T09:38:04.293Z - success: sdkbox loaded
+2018-02-07T09:38:04.297Z - success: tester loaded
+2018-02-07T09:38:04.302Z - success: ui-kit-preview-extra loaded
+2018-02-07T09:38:04.312Z - success: ui-kit-preview loaded
+2018-02-07T09:38:04.316Z - success: ui-tree loaded
+2018-02-07T09:38:05.402Z - normal: Initializing project /Users/huangjiheng/NewProject
+2018-02-07T09:38:05.405Z - normal: Loading packages
+2018-02-07T09:38:05.409Z - normal: Watching packages
+2018-02-07T09:38:05.420Z - normal: Run Application
+2018-02-07T09:38:05.864Z - failed: [db-task][init] Failed to import asset /Users/huangjiheng/NewProject/assets/main_Script.js, message: Compile error: SyntaxError: /Users/huangjiheng/NewProject/assets/main_Script.js: Unexpected token, expected , (31:4)
+  29 |     }
+  30 | 
+> 31 |     start () {
+     |     ^
+  32 | 
+  33 |     },
+  34 | 
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
+    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+2018-02-07T09:38:06.135Z - success: preview server running at http://localhost:7456
+2018-02-07T09:38:10.615Z - normal: 1.8.0
+2018-02-07T09:40:59.812Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:4520
+2018-02-28T09:26:39.957Z - info: shutdown preview server
